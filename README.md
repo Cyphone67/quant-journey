@@ -110,19 +110,6 @@ RSI(14): 68.5
   盈亏比      1.85
 ```
 
-## 🖼 在 README 中添加截图说明
-
-如果要在 GitHub README 中加入截图（能让用户更直观），建议：
-1. 在本地运行脚本并保存截图（Windows 上运行时直接截屏 Matplotlib 窗口或使用 `保存为` 功能）。
-2. 把图片放在项目内 `docs/` 或 `assets/` 文件夹下（建议小尺寸、PNG 格式）。
-3. 在 README 中通过相对路径引用，例如：
-
-```
-![综合看板](assets/combined_dashboard.png)
-```
-
-（如果需要，我可以为你写好 README 中的截图占位和示例 Markdown）
-
 ---
 
 ## .gitignore 建议（示例）
