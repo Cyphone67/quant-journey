@@ -1,0 +1,4 @@
+# 运行依赖（Python 3.10+）
+pandas>=2.0
+requests>=2.31
+matplotlib>=3.7

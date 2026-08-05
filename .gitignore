@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 运行时生成的数据文件（行情 CSV）
+*.csv
+
+# 本地归档（历史版本/练习文件等，保留但不发布）
+archive/
+
+# 编译产物 / 图表
+*.exe
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
